@@ -1,3 +1,71 @@
 #story {
   /*display: none;*/
 }
+#formOne {
+    text-align: center;
+    margin-top: 24px;
+}
+
+#formOne div.form-group {
+  height: 35px;
+  margin-bottom: 0px;
+}
+
+.form-control {
+  background-color: burlywood;
+  border: 1px solid burlywood;
+  color: black;
+}
+
+.form-control::-webkit-input-placeholder {
+  color: black;
+  text-transform: capitalize;
+  font-size: 15px;
+}
+
+.btn{
+  margin-top: 10px;
+  background-color: burlywood
+}
+
+h1 {
+  font-family: serif;
+  font-size: 50px;
+  text-align: center;
+  border-bottom: 2px solid cornsilk;
+  margin-bottom: 27px;
+}
+
+h3 {
+  font-family: serif;
+  font-size: 35px;
+}
+
+.capas {
+  font-size: 25px;
+  font-weight: bold;
+  color: #00eb7f;
+  margin-right: 2px;
+}
+
+#capas {
+  font-weight: bold;
+  color: #00eb7f;
+  font-family: sans-serif;
+  margin-right: 3px;
+  font-size: 53px;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-color: black;
+  color: cornsilk;
+}
+
+.container {
+  margin-bottom: 30px;
+}
